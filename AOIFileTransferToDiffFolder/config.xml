@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <SouceFolder>D:\OUTPUTPATH\</SouceFolder>
+    <TargetFolder1>D:\OUTPUTPATH\OUTPUTPATH-1\</TargetFolder1>
+    <TargetFolder2>D:\OUTPUTPATH\OUTPUTPATH-2\</TargetFolder2>
+    <TargetFolder3>D:\OUTPUTPATH\OUTPUTPATH-3\</TargetFolder3>
+  </Config>
+</Root>
